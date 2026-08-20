@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SMS Middleware</string>
+    <string name="notification_channel_id">gateway_service</string>
+    <string name="notification_channel_name">SMS Gateway</string>
+    <string name="notification_running_title">SMS Middleware is running</string>
+    <string name="notification_running_text">Connected to backend and listening for commands.</string>
+    <string name="notification_offline_text">Offline — retrying connection…</string>
+</resources>
